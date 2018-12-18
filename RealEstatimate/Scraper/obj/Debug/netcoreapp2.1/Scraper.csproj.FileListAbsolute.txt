@@ -1,0 +1,11 @@
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\bin\Debug\netcoreapp2.1\Scraper.deps.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\bin\Debug\netcoreapp2.1\Scraper.runtimeconfig.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\bin\Debug\netcoreapp2.1\Scraper.runtimeconfig.dev.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\bin\Debug\netcoreapp2.1\Scraper.dll
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\obj\Debug\netcoreapp2.1\Scraper.csprojAssemblyReference.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\obj\Debug\netcoreapp2.1\Scraper.csproj.CoreCompileInputs.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\obj\Debug\netcoreapp2.1\Scraper.AssemblyInfoInputs.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\obj\Debug\netcoreapp2.1\Scraper.AssemblyInfo.cs
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\bin\Debug\netcoreapp2.1\Scraper.pdb
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\obj\Debug\netcoreapp2.1\Scraper.dll
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\Scraper\obj\Debug\netcoreapp2.1\Scraper.pdb

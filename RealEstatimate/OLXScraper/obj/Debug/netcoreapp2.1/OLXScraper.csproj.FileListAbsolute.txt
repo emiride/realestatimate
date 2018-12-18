@@ -1,0 +1,11 @@
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\bin\Debug\netcoreapp2.1\OLXScraper.deps.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\bin\Debug\netcoreapp2.1\OLXScraper.runtimeconfig.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\bin\Debug\netcoreapp2.1\OLXScraper.runtimeconfig.dev.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\bin\Debug\netcoreapp2.1\OLXScraper.dll
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\bin\Debug\netcoreapp2.1\OLXScraper.pdb
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\obj\Debug\netcoreapp2.1\OLXScraper.csprojAssemblyReference.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\obj\Debug\netcoreapp2.1\OLXScraper.csproj.CoreCompileInputs.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\obj\Debug\netcoreapp2.1\OLXScraper.AssemblyInfoInputs.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\obj\Debug\netcoreapp2.1\OLXScraper.AssemblyInfo.cs
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\obj\Debug\netcoreapp2.1\OLXScraper.dll
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\OLXScraper\obj\Debug\netcoreapp2.1\OLXScraper.pdb

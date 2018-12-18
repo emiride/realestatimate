@@ -1,0 +1,11 @@
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\bin\Debug\netcoreapp2.0\RealEstatimate.deps.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\bin\Debug\netcoreapp2.0\RealEstatimate.runtimeconfig.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\bin\Debug\netcoreapp2.0\RealEstatimate.runtimeconfig.dev.json
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\bin\Debug\netcoreapp2.0\RealEstatimate.dll
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\bin\Debug\netcoreapp2.0\RealEstatimate.pdb
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\obj\Debug\netcoreapp2.0\RealEstatimate.csprojResolveAssemblyReference.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\obj\Debug\netcoreapp2.0\RealEstatimate.csproj.CoreCompileInputs.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\obj\Debug\netcoreapp2.0\RealEstatimate.AssemblyInfoInputs.cache
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\obj\Debug\netcoreapp2.0\RealEstatimate.AssemblyInfo.cs
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\obj\Debug\netcoreapp2.0\RealEstatimate.dll
+C:\Users\emir.hodzic\Documents\FAX\RealEstatimate\RealEstatimate\obj\Debug\netcoreapp2.0\RealEstatimate.pdb
